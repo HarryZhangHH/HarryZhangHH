@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Haohui, a master student 👨‍🎓 in MSc Computer Science at VU & UvA. 
-Right now I am researching on Multi-agent System supervised by Eric Pauwels inCentrum Wiskunde & Informatica [CWI](https://www.cwi.nl/). My research interest covers deep reinforcement learning 🤖, multi-agent system 🤼, RL for mechanism or algorithm design 👨‍🔧, and algorithmic game theory 🎲.
+Right now I am researching on Multi-agent System supervised by Eric Pauwels in Centrum Wiskunde & Informatica [CWI](https://www.cwi.nl/). My research interest covers deep reinforcement learning 🤖, multi-agent system 🤼, RL for mechanism or algorithm design 👨‍🔧, and algorithmic game theory 🎲.
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![GitHub Snake dark](https://github.com/HarryZhangHH/HarryZhangHH/blob/main/github-user-contribution.svg#gh-dark-mode-only)
