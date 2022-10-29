@@ -3,8 +3,8 @@ Right now I am researching on Multi-agent System supervised by Eric Pauwels inCe
 
 ### Find me all around the web:
 <p align="left">
-<a href="https://www.linkedin.com/HAOHUIZHANG" target="blank"><img align="center" src="https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/linkedin.png" title = "Twitter" alt="" height="30" /></a>
-<a href="https://www.instagram.com/volcano_harry_zhang/" target="blank"><img align="center" src="https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/instagram.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/haohui-zhang-a70486228/" target="blank"><img align="center" src="https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/linkedin.png" title = "Twitter" alt="" height="23" /></a>
+<a href="https://www.instagram.com/volcano_harry_zhang/" target="blank"><img align="center" src="https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/instagram.png" alt="" height="23" /></a>
 <!--
 **HarryZhangHH/HarryZhangHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
