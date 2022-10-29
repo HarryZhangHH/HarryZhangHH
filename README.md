@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Haohui, a master student in MSc Computer Science at VU & UvA. Right now I am researching on Multi-agent System supervised by Eric Pauwels inCentrum Wiskunde & Informatica [CWI](https://www.cwi.nl/). My research interest covers deep reinforcement learning , multi-agent system, RL for mechanism or algorithm design, and algorithmic game theory.
+## Hi there 👋 I'm Haohui, a master student 👨‍🎓 in MSc Computer Science at VU & UvA. 
+Right now I am researching on Multi-agent System supervised by Eric Pauwels inCentrum Wiskunde & Informatica [CWI](https://www.cwi.nl/). My research interest covers deep reinforcement learning 🤖, multi-agent system 🤼, RL for mechanism or algorithm design 👨‍🔧, and algorithmic game theory 🎲.
 
 <!--
 **HarryZhangHH/HarryZhangHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://user-images.githubusercontent.com/90204675/198823609-0fed60f9-9cbc-43f3-8aa2-384fa3f40488.png)
