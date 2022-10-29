@@ -4,7 +4,9 @@ Right now I am researching on Multi-agent System supervised by Eric Pauwels in C
 <!-- platane/snk works, it just puts it on a new branch -->
 ![GitHub Snake dark](https://github.com/HarryZhangHH/HarryZhangHH/blob/main/github-user-contribution.svg#gh-dark-mode-only)
 
-Find me all around the web: <p align="left"><a href="https://www.linkedin.com/in/haohui-zhang-a70486228/" target="blank"><img align="center" src="https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/linkedin.png" title = "Twitter" alt="" height="23" /></a><a href="https://www.instagram.com/volcano_harry_zhang/" target="blank"><img align="center" src="https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/instagram.png" alt="" height="23" /></a>
+<a Find me all around the web: /></a>
+<p align="left"><a href="https://www.linkedin.com/in/haohui-zhang-a70486228/" target="blank"><img align="center" src="https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/linkedin.png" title = "Twitter" alt="" height="23" /></a>
+ <a href="https://www.instagram.com/volcano_harry_zhang/" target="blank"><img align="center" src="https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/instagram.png" alt="" height="23" /></a>
 <!--
 **HarryZhangHH/HarryZhangHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
