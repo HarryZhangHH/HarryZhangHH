@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Haohui, a master student in MSc Computer Science at VU & UvA. Right now I am researching on Multi-agent System supervised by Eric Pauwels inCentrum Wiskunde & Informatica [CWI](https://www.cwi.nl/). My research interest covers deep reinforcement learning <img align="center" src="https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/machine-learning.png" height="17" />, multi-agent system, RL for mechanism or algorithm design, and algorithmic game theory.
+## Hi there 👋 I'm Haohui, a master student in MSc Computer Science at VU & UvA. Right now I am researching on Multi-agent System supervised by Eric Pauwels inCentrum Wiskunde & Informatica [CWI](https://www.cwi.nl/). My research interest covers deep reinforcement learning <img align="center" src="[https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/machine-learning.png](https://user-images.githubusercontent.com/90204675/198823445-28a181bf-b100-4487-a03f-36191afc5056.png)" height="17" />, multi-agent system, RL for mechanism or algorithm design, and algorithmic game theory.
 
 <!--
 **HarryZhangHH/HarryZhangHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![machine-learning](https://user-images.githubusercontent.com/90204675/198823445-28a181bf-b100-4487-a03f-36191afc5056.png)
