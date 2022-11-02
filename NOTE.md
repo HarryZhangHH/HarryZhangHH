@@ -38,5 +38,6 @@ git push origin my-branch
 ```
 Username for 'https://github.com': myusername
 Password for 'https://myusername@github.com': mypassword
+
 remote: Invalid username or password.fatal: Authentication failed for 'https://github.com/my-repository’
 Use the classic token to solve: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
