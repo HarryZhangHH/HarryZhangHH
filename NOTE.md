@@ -29,14 +29,10 @@ If you made a mistake in your last commit message, run this command:
   git commit --amend -m "Put your corrected message here"
 ```
 When viewing a list of commits, there are various commands depending on how much info you want to see.
-    To see a simplified list of commits, run this command:
-```
-        git log --oneline
-```
-    To see a list of commits with more detail (such who made the commit and when), run this command:
-```
-        git log
-```
+    To see a simplified list of commits, run this command: ```git log --oneline```
+    To see a list of commits with more detail (such who made the commit and when), run this command: ```git log```
+    
+    
 ```
 git push origin my-branch
 ```
