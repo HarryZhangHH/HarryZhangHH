@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Harry, a Ph.D. candidate 👨‍🎓 in AI for OR and transportation at University of Twente. 
+## Hi there 👋 I'm Harry, a Ph.D. candidate 👨‍🎓 in AI for transportation at University of Twente. 
 I did my master in MSc Computer Science at VU & UvA, and researched on Multi-agent Reinforcement Learning supervised by Eric Pauwels in Centrum Wiskunde & Informatica [CWI](https://www.cwi.nl/).
 I am currently supervised by Martijn Mes, Wouter van Heeswijk and Neil Yorke-Smith. 
 My research interest covers deep (reinforcement) learning 🤖, combinatorial optimization 🔨, mechanism and algorithm design 👨‍🔧, multi-agent system 🤼 and algorithmic game theory 🎲.
