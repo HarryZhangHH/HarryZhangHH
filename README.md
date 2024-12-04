@@ -4,7 +4,8 @@ I am currently supervised by Martijn Mes, Wouter van Heeswijk and Neil Yorke-Smi
 My research interest covers deep (reinforcement) learning 🤖, combinatorial optimization 🔨, mechanism and algorithm design 👨‍🔧, multi-agent system 🤼 and algorithmic game theory 🎲.
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![GitHub Snake dark](https://github.com/HarryZhangHH/HarryZhangHH/blob/main/github-user-contribution.svg#gh-dark-mode-only)
+<!-- ![GitHub Snake dark](https://github.com/HarryZhangHH/HarryZhangHH/blob/main/github-user-contribution.svg#gh-dark-mode-only) -->
+![GitHub Snake dark](dist/github-snake-dark.svg#gh-dark-mode-only)
 
 ## Find me all around the web:
 <a href="https://www.linkedin.com/in/haohui-zhang-a70486228/" target="blank"><img align="center" src="https://github.com/HarryZhangHH/HarryZhangHH/blob/main/icons/linkedin.png" title = "Twitter" alt="" height="23" /></a>
