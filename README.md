@@ -7,9 +7,9 @@ My research interest covers deep (reinforcement) learning 🤖, combinatorial op
 ![GitHub Snake dark](https://github.com/HarryZhangHH/HarryZhangHH/blob/main/github-user-contribution.svg#gh-dark-mode-only)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<USER>/<REPO>/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<USER>/<REPO>/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/<USER>/<REPO>/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<HarryZhangHH>/<HarryZhangHH>/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<HarryZhangHH>/<HarryZhangHH>/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/<HarryZhangHH>/<HarryZhangHH>/output/github-snake.svg" />
 </picture>
 
 
